@@ -4,7 +4,7 @@ Public list of imagehosts (idea from internet-toolbox)
 ## [nest.rip](https://nest.rip)
 - Owner: pringles (Very nice and open for everything)
 - Nest.rip is a well-known file hosting service that also offers the additional functionality of URL shortening. Users can conveniently store and share files while benefiting from the service's URL shortening feature for streamlined link sharing.
-- To get an invite you just have to boost your discord server
+- To get an invite you just have to boost their discord server
 
 
 ### UI
