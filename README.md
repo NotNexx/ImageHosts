@@ -11,7 +11,10 @@ Public list of imagehosts (idea from internet-toolbox)
 - The user interface of Nest.rip is striking with its visually appealing design, featuring a dark color scheme that is not only aesthetically pleasing but also easy on the eyes. The thoughtful design contributes to a pleasant user experience. With a rating of 10/10, I express my complete satisfaction with the user interface, which is both visually appealing and user-friendly.
   
     [Dashboard - Home](https://nexx.gg/8bee86f.png) [Dashboard - Files](https://nexx.gg/3e21737.png) [Dashboard - Settings](https://nexx.gg/a31f348.png) [Dashboard - Paste](https://nexx.gg/489721c.png)
-  
+
+    PS: I think they got stuck in the christmas season xD
+
+
     For more just create an account :)
 
 ### Speed
